@@ -1,1 +1,5 @@
-touch config.json
+{
+  "pools": {
+    "0xbBBfbE9A731634eDdf84C67A106CEE1F981F3f7e": 10
+  }
+}
